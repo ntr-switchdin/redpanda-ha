@@ -1,0 +1,3 @@
+redis>=5
+faststream[kafka]>=0
+watchfiles>=0
